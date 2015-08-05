@@ -1,5 +1,5 @@
 /**
- * Columbus Idea Foundry Plasma TV Table
+ * Columbus Idea Foundry Plasma TV Coffee Table
  * Debug Code to read and report photoresistor values via serial
  * 
  * Written by Karsten Look

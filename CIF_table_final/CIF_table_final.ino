@@ -1,5 +1,5 @@
 /**
- * * Columbus Idea Foundry Plasma TV Table
+ * * Columbus Idea Foundry Plasma TV Coffee Table
  * Main code to operate LED strips based off of photoresistor readings
  * 
  * Written by Karsten Look
